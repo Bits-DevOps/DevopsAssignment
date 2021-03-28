@@ -1,1 +1,1 @@
-Welcome to BITS Pialni DevOps Course!
+Welcome to BITS Pialni DevOps Course for assignment!
